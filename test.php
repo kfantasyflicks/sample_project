@@ -1,2 +1,2 @@
-<?php echo "hai fantasy flick55 hai";
+<?php echo "hai fantasy flicks haiddd";
 ?>
